@@ -1259,7 +1259,7 @@ enter 键的 keyCode 为 13。
 ### 实现
 
 * [代码](https://github.com/Gaohaoyang/ife/tree/master/task/task0002/work/Gaohaoyang)
-* [在线demo](http://gaohaoyang.github.io/ife/task/task0002/work/Gaohaoyang/task0002_1.html)
+* [在线demo](http://xing.github.io/ife/task/task0002/work/Gaohaoyang/task0002_1.html)
 
 ---
 
@@ -1291,7 +1291,7 @@ enter 键的 keyCode 为 13。
 ### 实现
 
 * [代码](https://github.com/Gaohaoyang/ife/tree/master/task/task0002/work/Gaohaoyang)
-* [在线demo](http://gaohaoyang.github.io/ife/task/task0002/work/Gaohaoyang/task0002_2.html)
+* [在线demo](http://xing.github.io/ife/task/task0002/work/Gaohaoyang/task0002_2.html)
 
 ---
 
@@ -1321,7 +1321,7 @@ enter 键的 keyCode 为 13。
 ### 实现
 
 * [代码](https://github.com/Gaohaoyang/ife/tree/master/task/task0002/work/Gaohaoyang)
-* [在线demo](http://gaohaoyang.github.io/ife/task/task0002/work/Gaohaoyang/task0002_3.html)
+* [在线demo](http://xing.github.io/ife/task/task0002/work/Gaohaoyang/task0002_3.html)
 
 ### 关于变速运动
 
@@ -1445,7 +1445,7 @@ var suggestData = ['Simon', 'Erik', 'Kener'];
 ### 实现
 
 * [代码](https://github.com/Gaohaoyang/ife/tree/master/task/task0002/work/Gaohaoyang)
-* [在线demo](http://gaohaoyang.github.io/ife/task/task0002/work/Gaohaoyang/task0002_4.html)
+* [在线demo](http://xing.github.io/ife/task/task0002/work/Gaohaoyang/task0002_4.html)
 
 
 ---
@@ -1474,13 +1474,13 @@ var suggestData = ['Simon', 'Erik', 'Kener'];
 ### 实现
 
 * [代码](https://github.com/Gaohaoyang/ife/tree/master/task/task0002/work/Gaohaoyang)
-* [在线demo](http://gaohaoyang.github.io/ife/task/task0002/work/Gaohaoyang/task0002_5.html)
+* [在线demo](http://xing.github.io/ife/task/task0002/work/Gaohaoyang/task0002_5.html)
 
 ---
 
 ## 最终作品
 
 * [代码](https://github.com/Gaohaoyang/ife/tree/master/task/task0002/work/Gaohaoyang)
-* [在线 Demo](http://gaohaoyang.github.io/ife/task/task0002/work/Gaohaoyang/index.html)
+* [在线 Demo](http://xing.github.io/ife/task/task0002/work/Gaohaoyang/index.html)
 
 加油！向着下一个目标前进！
